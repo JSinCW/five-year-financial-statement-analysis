@@ -71,3 +71,7 @@ However, the study also identified areas for management attention, including:
 ## Project Type
 
 **Undergraduate Internship Financial Analysis Project**
+
+## Project File
+
+- [View Financial Statement Analysis Report](Five_Year_Financial_Statement_Analysis.pdf)
